@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>GeoQuest</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>🌍 GeoQuest</h1>
+  <button onclick="startGame()">Play</button>
+  <button onclick="window.location='levels.html'">Select Level</button>
+
+  <script>
+    function startGame() {
+      let unlocked = localStorage.getItem('unlockedLevel') || 1;
+      window.location = `quiz.html?level=${unlocked}`;
+    }
+  </script>
+</body>
+</html>

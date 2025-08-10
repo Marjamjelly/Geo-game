@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+<path id="france" d="M200,200 L210,200 L210,210 L200,210 Z" />
+<path id="brazil" d="M300,300 L310,300 L310,310 L300,310 Z" />
+<path id="india" d="M500,250 L510,250 L510,260 L500,260 Z" />
+<path id="canada" d="M200,100 L210,100 L210,110 L200,110 Z" />
+<path id="australia" d="M600,350 L610,350 L610,360 L600,360 Z" />
+</svg>
