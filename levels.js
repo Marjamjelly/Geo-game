@@ -6,5 +6,5 @@ const levels = [
     map: "maps/continentsLow.svg",
     questions: ["north_america", "south_america", "europe", "asia", "africa", "australia"]
   },
-  // Add more levels here
+  // Add more levels her
 ];
